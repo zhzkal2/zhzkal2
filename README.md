@@ -1,7 +1,7 @@
 ## Lim TaeWoong
 
 <div>
-  <img src="https://leetcard.jacoblin.cool/zhzkal2?theme=catppuccinMocha&font=Sintony&ext=activity" alt="LeetCode Stats" width="300" height="200" />
+![LeetCode Stats](https://leetcard.jacoblin.cool/zhzkal2?theme=catppuccinMocha&font=Sintony)
 </div>
 
 
