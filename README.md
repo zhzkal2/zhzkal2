@@ -1,4 +1,4 @@
-## Hi there 👋
+## Lim TaeWoong
 ![LeetCode Stats](https://leetcard.jacoblin.cool/zhzkal2?theme=catppuccinMocha&font=Sintony&ext=activity)
 
 
