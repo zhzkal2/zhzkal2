@@ -1,4 +1,6 @@
 ## Hi there 👋
+https://leetcard.jacoblin.cool/zhzkal2?theme=catppuccinMocha&font=Sintony&ext=activity
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
 
 <!--
 **zhzkal2/zhzkal2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
